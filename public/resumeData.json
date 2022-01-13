@@ -1,46 +1,26 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Jessy Jingru Zhu",
+    "occupation": "Software Engineer",
+    "description": "This is personal webpage built with React Framework deployed on GCP GKE",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I'm a London based Software Engineer. Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "jessyzhu5@gmail.com",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "10 Upper Bank Street",
+      "city": "London",
+      "zip": "E14 5GW"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
-      {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
+
+
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -48,30 +28,30 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "UCL",
+        "degree": "MSc in Information Science",
+        "graduated": "Sep 2019",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Queen Mary Univeristy of London",
+        "degree": "BSc in E-Commerce Engineering with Law",
+        "graduated": "June 2018",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "SDLC  Implementation-- Deutsche Bank",
+        "title": "Cloud Engineer",
+        "years": "March 2021 - Present",
+        "description": ""
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "AI Recommendation Engine  -- Deutsche Bank",
+        "title": "Machine Learning Engineer",
+        "years": "Oct 2020 - March 2021",
+        "description": ""
       }
     ],
     "skills": [
@@ -142,12 +122,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I have been working with Jessy as part of the SDLC Controls Implementation on GCP team, Cirrus WS9j. Jessy is always enthusiastic to learn new technologies and develop her engineering skills. She is looking to get involved into challenging tasks and always delivering her tasks on time",
+        "user": "Feedback from Colleage"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Jessy works at a peer level with more senior team members. It is clear her enthusiasm and dedication to the task more than makes up for this and she should be commended for the work she has done to help the team achieve its expectations. She has picked up the technical concepts of Github Actions, Typescript and the other technologies used within the GCP SDLC team very quickly and she is able to demonstrate these independently with limited supervision. ",
+        "user": "Feedback from Colleage"
       }
     ]
   }
