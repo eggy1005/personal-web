@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "griffith": "^1.22.0",
     "jquery": "^3.6.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-ga": "^2.7.0",
+    "react-player": "^2.9.0",
     "react-scripts": "1.0.17",
     "redux": "^4.1.2",
     "video-react": "^0.15.0"
