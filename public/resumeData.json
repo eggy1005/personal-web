@@ -123,11 +123,11 @@
     "testimonials": [
       {
         "text": "I have been working with Jessy as part of the SDLC Controls Implementation on GCP team, Cirrus WS9j. Jessy is always enthusiastic to learn new technologies and develop her engineering skills. She is looking to get involved into challenging tasks and always delivering her tasks on time",
-        "user": "Feedback from Colleage"
+        "user": "Feedback from colleague"
       },
       {
         "text": "Jessy works at a peer level with more senior team members. It is clear her enthusiasm and dedication to the task more than makes up for this and she should be commended for the work she has done to help the team achieve its expectations. She has picked up the technical concepts of Github Actions, Typescript and the other technologies used within the GCP SDLC team very quickly and she is able to demonstrate these independently with limited supervision. ",
-        "user": "Feedback from Colleage"
+        "user": "Feedback from colleague"
       }
     ]
   }
